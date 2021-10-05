@@ -1,0 +1,1 @@
+Um clone da tela incial do instagram com html e css, apenas para fixar alguns conceitos estudados como flexbox.
